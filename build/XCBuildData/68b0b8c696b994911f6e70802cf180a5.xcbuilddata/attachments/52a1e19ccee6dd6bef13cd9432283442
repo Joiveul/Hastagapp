@@ -1,0 +1,6 @@
+framework module Pods_Tableviewcell {
+  umbrella header "Pods-Tableviewcell-umbrella.h"
+
+  export *
+  module * { export * }
+}

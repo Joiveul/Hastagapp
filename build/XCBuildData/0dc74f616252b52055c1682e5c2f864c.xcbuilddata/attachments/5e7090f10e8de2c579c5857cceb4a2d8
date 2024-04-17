@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Debug-iphonesimulator/Disk/Disk.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Debug-iphonesimulator/Disk/Disk.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "Disk-Swift.h",
+      'external-contents': "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/unextended-interface-header.h",
+    }]
+    }]
+}

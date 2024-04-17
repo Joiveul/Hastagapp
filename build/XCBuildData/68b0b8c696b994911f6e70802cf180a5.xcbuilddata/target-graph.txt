@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Pods-TableviewcellTests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-Tableviewcell' in project 'Pods'
+Target 'Pods-Tableviewcell' in project 'Pods'
+➜ Explicit dependency on target 'Disk' in project 'Pods'
+Target 'Disk' in project 'Pods' (no dependencies)

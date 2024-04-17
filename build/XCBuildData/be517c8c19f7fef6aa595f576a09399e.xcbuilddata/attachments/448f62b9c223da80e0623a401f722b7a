@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk-master.dia",
+    "emit-module-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk-master-emit-module.dia",
+    "swift-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk-master.swiftdeps"
+  },
+  "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/Pods/Disk/Sources/Disk.swift" : {
+    "const-values" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk.swiftconstvalues",
+    "dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk.d",
+    "diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk.o",
+    "llvm-bc" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk.bc",
+    "object" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk.o",
+    "swift-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk.swiftdeps",
+    "swiftmodule" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk~partial.swiftmodule"
+  },
+  "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/Pods/Disk/Sources/Disk+[Data].swift" : {
+    "const-values" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[Data].swiftconstvalues",
+    "dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[Data].d",
+    "diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[Data].dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[Data].o",
+    "llvm-bc" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[Data].bc",
+    "object" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[Data].o",
+    "swift-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[Data].swiftdeps",
+    "swiftmodule" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[Data]~partial.swiftmodule"
+  },
+  "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/Pods/Disk/Sources/Disk+[UIImage].swift" : {
+    "const-values" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[UIImage].swiftconstvalues",
+    "dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[UIImage].d",
+    "diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[UIImage].dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[UIImage].o",
+    "llvm-bc" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[UIImage].bc",
+    "object" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[UIImage].o",
+    "swift-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[UIImage].swiftdeps",
+    "swiftmodule" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+[UIImage]~partial.swiftmodule"
+  },
+  "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/Pods/Disk/Sources/Disk+Codable.swift" : {
+    "const-values" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Codable.swiftconstvalues",
+    "dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Codable.d",
+    "diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Codable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Codable.o",
+    "llvm-bc" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Codable.bc",
+    "object" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Codable.o",
+    "swift-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Codable.swiftdeps",
+    "swiftmodule" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Codable~partial.swiftmodule"
+  },
+  "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/Pods/Disk/Sources/Disk+Data.swift" : {
+    "const-values" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Data.swiftconstvalues",
+    "dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Data.d",
+    "diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Data.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Data.o",
+    "llvm-bc" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Data.bc",
+    "object" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Data.o",
+    "swift-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Data.swiftdeps",
+    "swiftmodule" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Data~partial.swiftmodule"
+  },
+  "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/Pods/Disk/Sources/Disk+Errors.swift" : {
+    "const-values" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Errors.swiftconstvalues",
+    "dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Errors.d",
+    "diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Errors.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Errors.o",
+    "llvm-bc" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Errors.bc",
+    "object" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Errors.o",
+    "swift-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Errors.swiftdeps",
+    "swiftmodule" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Errors~partial.swiftmodule"
+  },
+  "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/Pods/Disk/Sources/Disk+Helpers.swift" : {
+    "const-values" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Helpers.swiftconstvalues",
+    "dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Helpers.d",
+    "diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Helpers.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Helpers.o",
+    "llvm-bc" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Helpers.bc",
+    "object" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Helpers.o",
+    "swift-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Helpers.swiftdeps",
+    "swiftmodule" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+Helpers~partial.swiftmodule"
+  },
+  "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/Pods/Disk/Sources/Disk+InternalHelpers.swift" : {
+    "const-values" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+InternalHelpers.swiftconstvalues",
+    "dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+InternalHelpers.d",
+    "diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+InternalHelpers.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+InternalHelpers.o",
+    "llvm-bc" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+InternalHelpers.bc",
+    "object" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+InternalHelpers.o",
+    "swift-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+InternalHelpers.swiftdeps",
+    "swiftmodule" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+InternalHelpers~partial.swiftmodule"
+  },
+  "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/Pods/Disk/Sources/Disk+UIImage.swift" : {
+    "const-values" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+UIImage.swiftconstvalues",
+    "dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+UIImage.d",
+    "diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+UIImage.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+UIImage.o",
+    "llvm-bc" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+UIImage.bc",
+    "object" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+UIImage.o",
+    "swift-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+UIImage.swiftdeps",
+    "swiftmodule" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+UIImage~partial.swiftmodule"
+  },
+  "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/Pods/Disk/Sources/Disk+VolumeInformation.swift" : {
+    "const-values" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+VolumeInformation.swiftconstvalues",
+    "dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+VolumeInformation.d",
+    "diagnostics" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+VolumeInformation.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+VolumeInformation.o",
+    "llvm-bc" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+VolumeInformation.bc",
+    "object" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+VolumeInformation.o",
+    "swift-dependencies" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+VolumeInformation.swiftdeps",
+    "swiftmodule" : "/Users/meenakshisundarambalasubramaniam/Documents/Tutorial/Tableviewcell/build/Pods.build/Debug-iphonesimulator/Disk.build/Objects-normal/arm64/Disk+VolumeInformation~partial.swiftmodule"
+  }
+}

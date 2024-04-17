@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_Tableviewcell_TableviewcellUITestsVersionString[];
+ extern const double Pods_Tableviewcell_TableviewcellUITestsVersionNumber;
+
+ const unsigned char Pods_Tableviewcell_TableviewcellUITestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_Tableviewcell_TableviewcellUITests  PROJECT:Pods-1" "\n";
+ const double Pods_Tableviewcell_TableviewcellUITestsVersionNumber __attribute__ ((used)) = (double)1.;
